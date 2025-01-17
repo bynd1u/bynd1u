@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm a frontend developer in training with a background in C and C++ from university and professional experience working with Unity. Currently, I'm diving into HTML, CSS, JavaScript, React, and modern frontend technologies, building exciting projects to expand my portfolio and explore innovative approaches to web development. I'm always learning and open to collaboration with like-minded individuals!
 
 # 💻 Tech Stack:
